@@ -13,8 +13,7 @@ I created this project to learn data analysis by exploring the Superstore datase
 2. Ensure all files (`sql_queries.sql`, `db_setup.py`, `superstore_sales_analysis.ipynb`) and the `data` folder are in one project folder.
 3. Run `jupyter notebook` in the terminal, then open `superstore_sales_analysis.ipynb` and run all cells.
 4. Enter your MySQL username, password, host (usually localhost), and database name when asked.
-5. Pick a region (Central, East, South, West) for the last query.
-6. Check `output plots/` for charts (`sales_by_category.png`, `profit_by_state.png`, `profit_margin_by_state.png`).
+5. Check `output plots/` for charts (`sales_by_category.png`, `profit_by_state.png`, `profit_margin_by_state.png`).
 
 ## Notes
 - Start MySQL (e.g., via Workbench) before running.
