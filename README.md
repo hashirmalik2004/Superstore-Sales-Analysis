@@ -27,4 +27,4 @@ This is my data analysis project using Python and SQL. I used the Superstore dat
 - Ensure MySQL is running before starting (e.g., start the server via MySQL Workbench).
 - The CSV must be in the subfolder `data` and in the sae  folder as the other files, or the code won’t find it.
 
-Thanks, I’m a second-year CS student learning data analysis, and this was a great way to practice.
+Thanks , I'm learning data analysis, and this was a great way to practice.
