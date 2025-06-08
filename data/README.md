@@ -1,0 +1,1 @@
+This folder contains the `Superstore-data.csv` file, which is the dataset used for the Superstore Sales Analysis project. Download this dataset from Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) if you need to replace or update it
